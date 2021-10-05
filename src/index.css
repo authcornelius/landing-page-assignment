@@ -1,0 +1,91 @@
+body{
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.landing-page{
+    text-align: center;
+}
+.landing-page .main-logo{
+    padding: 2% 0%;
+    margin: 2% 0%;
+    font-size: 10%;
+}
+.landing-page{
+    width: 100%;
+    height: 100%;
+}
+.landing-page .header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 150px;
+}
+.landing-page .header .header-first-stage{
+    left: 10px;
+}
+.landing-page .header .header-second-stage{
+    margin: 0px 70px;
+}
+.landing-page .header .header-second-stage button{
+    background-color: #1b476d;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    padding: 0px 35px;
+}
+.landing-page .header .header-third-stage{
+}
+.landing-page .main-body .body-image{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+}
+.landing-page .main-body .body-image img{
+    width: 15rem;
+    border-radius: 10px;
+    margin: 0px 25px;
+}
+
+
+footer{
+    /* padding: 0;
+    margin: 0;
+    background-color: #ff0000cd;
+    overflow: hidden;
+    height: 300px;
+    background-image: url(/ONRAMP-010-WEEK-ONE/starter-code/utils/assets/images/image-footer.jpg); */
+    /* background: url(/ONRAMP-010-WEEK-ONE/starter-code/utils/assets/images/image-footer.jpg) 0 0 no-repeat fixed; */
+    /* height: 300px;
+    overflow: hidden;
+    color: red;
+    background-color: transparent;
+    background: rgb(255, 0, 0, 0.4);
+    opacity: 0.4; */
+}
+footer .bottom-parent{
+    background-image: url(/images/image-footer.jpg);
+    height: 150px;
+}
+footer .footer-container{
+    background-color: rgb(77, rgb(77, 150, 168), blue);
+    height: 150px;
+    opacity: 80%;
+    display: flex;
+    font-display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+}
+.footer-button{
+    background-color: rgb(123, 95, 177);
+    color: #fff;
+    padding: 9px;
+    border: 0px;
+    border-radius: 20px;
+}
+
