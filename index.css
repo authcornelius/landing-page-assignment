@@ -68,7 +68,7 @@ footer{
     opacity: 0.4; */
 }
 footer .bottom-parent{
-    background-image: url(/images/image-footer.jpg);
+    background-image: url(image-footer.jpg);
     height: 150px;
 }
 footer .footer-container{
